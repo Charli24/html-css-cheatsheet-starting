@@ -1,0 +1,39 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: #556b2f;
+}
+
+table {
+    margin: auto;
+}
+
+thead {
+    background-color: #8fbc8f;
+}
+
+th {
+    border-bottom: 1px solid;
+    border-color: #556b2f;
+}
+table {
+    border: 2px solid;
+    border-color: #556b2f;
+}
+
+td {
+    border-bottom: 1px solid;
+    border-color: #556b2f
+}
+
+#tag {
+    background-color: #d3d3d3;
+}
